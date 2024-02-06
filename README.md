@@ -1,7 +1,5 @@
-Hi there 👋
-
 new to coding...
 Interested in python an AI
 
-makbe doing my own diffusion Modle in the future, idk.
+maybe doing my own diffusion model in the future, idk.
 
